@@ -3,4 +3,4 @@
 
 --------
 
-Template Built with :blue_heart: by **Zoe Development Team**
+Template Built with :blue_heart: by **Zoe Development Team** in 🇬🇹
